@@ -1,0 +1,3 @@
+### Get num
+
+GET http://127.0.0.1:3000/util/number/maximum/?input=10,1,100
